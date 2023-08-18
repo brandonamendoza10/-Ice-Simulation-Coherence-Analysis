@@ -1,0 +1,2 @@
+#this dcd containing the data from the simulation is too large to add to GitHub, so below is its link such that it can be downloaded on one's computer: 
+https://drive.google.com/file/d/1YpkrYfxWRDyBrimgh8p4n7HIC6Pcm0gw/view?usp=drive_web 
